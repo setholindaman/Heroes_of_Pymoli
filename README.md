@@ -3,7 +3,7 @@
 ![Fantasy](Images/Fantasy.jpg)
 
 ## Tools Used
-* Pandas Library and Jupyter Notebook.
+* Python, Pandas, and Jupyter Notebook.
 
 ## Task
 Generate a report that breaks down the Heroes of Pymoli purchasing data into meaningful insights.
