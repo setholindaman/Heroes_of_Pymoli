@@ -3,8 +3,8 @@
 ![Fantasy](Images/Fantasy.jpg)
 
 ## Tools Used
-Pandas
-Numpy
+* Pandas
+* Numpy
 
 ## Task
 Generate a report that breaks down the Heroes of Pymoli purchasing data into meaningful insights.
