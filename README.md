@@ -1,7 +1,5 @@
 # Heroes_of_Pymoli
 
-![Fantasy](Images/Fantasy.jpg)
-
 ## Tools Used
 * Pandas
 * Numpy
