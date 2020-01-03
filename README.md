@@ -1,5 +1,3 @@
-# Heroes_of_Pymoli
-
 ## Tools Used
 * Pandas
 * Numpy
